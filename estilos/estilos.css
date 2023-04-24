@@ -16,11 +16,11 @@ body {
   #encabezado1{
     font-size: 73px;
     font-family: emoji;
-    color: rgb(255, 255, 255);
+    color: rgb(54, 197, 90);
     }
 
     #encabezado2{
-        color: #FFDF2B;
+        color: #e71515;
         font-size: 59px;
     }
 
@@ -28,6 +28,6 @@ body {
 
     #encabezado3{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        color: crimson;
+        color: rgb(252, 249, 249);
 
     }
